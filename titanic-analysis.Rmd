@@ -55,7 +55,7 @@ El hundimiento del Titanic no es solo una catástrofe marítima, sino un espejo 
 
 # Descripción de los Datos
 
-En esta sección presentamos de forma clara la naturaleza y alcance del conjunto de datos que sustenta nuestro análisis. El archivo tested.csv contiene registros de 891 pasajeros del Titanic, con variables demográficas, socioeconómicas y de embarque. Comprender su estructura y calidad es clave para interpretar correctamente las visualizaciones que veremos más adelante.
+En esta sección presentamos de forma clara la naturaleza y alcance del conjunto de datos que sustenta nuestro análisis. El archivo tested.csv contiene registros de 418 pasajeros del Titanic, con variables demográficas, socioeconómicas y de embarque. Comprender su estructura y calidad es clave para interpretar correctamente las visualizaciones que veremos más adelante.
 
 ¿Qué encontramos al inspeccionar estos datos?
 
